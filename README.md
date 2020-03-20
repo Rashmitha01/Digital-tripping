@@ -3,7 +3,7 @@ its a digital distribution board that works digitally insted mechanical tripping
 
 this is the initial version of digital-tripping the digital distribution board
 main objectives of this project:
-1. ditalize the prevailing DB
+1. digitalize the prevailing DB
 2. get readings of the current as well as the volatge levels 
 3. digitally trip the MCB & RCCB in case of high load or low voltages
 4. inidicates and inform to the user. 
